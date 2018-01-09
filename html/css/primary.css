@@ -1,0 +1,148 @@
+/*body,html {
+	height:100%;
+	background-image: url("images/flatironssunset.jpg");
+	background-repeat:no-repeat;
+	background-position:right;
+	background-size: cover;
+	background-attachment: fixed;
+}*/
+
+body {
+  background-color: #6E8898;
+}
+
+nav {
+  background-color: #2E5266;
+  border-color: #2E5266;
+}
+
+#pgLink {
+  color: #FBFBF2;
+}
+
+#resume {
+  font-size: 48pt;
+  font-family: cursive;
+  color: #2E5266;
+}
+
+.btn-primary {
+  background-color: #FBFBF2;
+  border-color: #FBFBF2;
+  color: #2E5266;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 0;
+    padding-right: 0;
+    overflow: hidden;
+}
+
+li {
+    float: left;
+    font-size: 4em;
+    padding-right: 40px;
+}
+
+li a {
+    display: block;
+    color: #96BBBB;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.card-text {
+  font-size: 3em;
+}
+
+#contactModal {
+float: right;
+}
+
+li a:hover:not(.active) {
+    background-color: #FBFBF2;
+    color: #2E5266;
+}
+
+.active {
+    color: #A57548;
+}
+
+
+#row1 {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+#intro {
+  color: #FBFBF2;
+  font-size: 2.5em;
+}
+
+#headline {
+  color: #FBFBF2;
+  font-size: 2.5em;
+  text-align: center;
+}
+
+img {
+  border-color: black;
+}
+
+h1 {
+  color: blue;
+}
+
+strong {
+  font-family: cursive;
+  font-size: 1.5em;
+}
+
+#card {
+  padding:0;
+}
+
+#card1 {
+  background-color: #A57548;
+  color: #FBFBF2;
+  height: 800px;
+}
+
+#card2 {
+  background-color: #96BBBB;
+  color: #FBFBF2;
+  height: 800px;
+}
+
+#card3 {
+  background-color: #2E5266;
+  color: #FBFBF2;
+  height: 800px;
+}
+
+modal-content {
+  background-color: white;
+  height: auto;
+  width: auto;
+}
+
+#busCard {
+  font-size: 48pt;
+}
+
+.card-header {
+  color: #FBFBF2;
+  font-size: 6em;
+  border: none;
+}
+
+#contact {
+  padding-top: 50px;
+  font-size: 3em;
+  text-align: center;
+  color: #FBFBF2;
+}
